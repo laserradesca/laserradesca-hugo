@@ -1,0 +1,16 @@
+enable  : true
+title   : Il Team
+members  :
+  - image       : images/team/team-member-two.jpg
+    name        : LAUREN REDMAN
+    designation : Capo
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-one.jpg
+    name        : PAOLO INNOCENTI
+    designation : Operaio
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
