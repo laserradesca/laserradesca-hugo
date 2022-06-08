@@ -1,4 +1,4 @@
-baseURL       = "https://laserradesca.com/"
+baseURL       = "https://laserradesca.github.io/laserradesca-hugo/"
 languageCode  = "en-us"
 title         = "La Serradesca | Società agricola"
 theme         = "roxo"
